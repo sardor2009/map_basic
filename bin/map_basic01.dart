@@ -5,7 +5,8 @@
 */
 
 Map func() {
-  return;
+  Map data = {2: 23, 12: 13};
+  return data;
 }
 
 void main() {
